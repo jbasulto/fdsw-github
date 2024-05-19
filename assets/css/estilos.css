@@ -7,7 +7,7 @@ body {
 #Hero-Section {
   background-image: url("../img/RatonSimpatico.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:auto;
   background-position: center;
 }
 
@@ -31,9 +31,7 @@ body {
   #Contacto form label {
     font-weight: 400;
   }
-
+}
   .navbar-brand{
     width: 100px;
   }
-
-}
